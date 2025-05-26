@@ -35,5 +35,6 @@ tanveer-portfolio/
 
 ## 📫 Contact
 
-Email: tanwar@mun.ca
-[LinkedIn](https://www.linkedin.com/in/tanveeranwar99)
+Email: tanwar@mun.ca  
+
+LinkedIn: [tanveeranwar99](https://www.linkedin.com/in/tanveeranwar99)
