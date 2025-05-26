@@ -22,6 +22,7 @@ This site showcases:
 
 ## 📁 Project Structure
 
+```
 tanveer-portfolio/
 ├── index.html
 ├── style.css
@@ -30,8 +31,9 @@ tanveer-portfolio/
     └── images/
 ├── README.md
 ├── .gitignore
+```
 
 ## 📫 Contact
 
 Email: tanwar@mun.ca
-LinkedIn: tanveeranwar99
+[LinkedIn](https://www.linkedin.com/in/tanveeranwar99)
