@@ -29,8 +29,6 @@ tanveer-portfolio/
 ├── script.js
 └── assets/
     └── images/
-├── README.md
-├── .gitignore
 ```
 
 ## 📫 Contact
